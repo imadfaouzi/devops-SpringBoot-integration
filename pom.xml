@@ -47,7 +47,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>devops-integration</finalName>
+        <finalName>devops-Springboot-integration</finalName>
     </build>
 
 
